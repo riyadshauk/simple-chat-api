@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  timestamp: 2021-08-15 19:31:28
+  message: MyText
+  user: one
+
+two:
+  timestamp: 2021-08-15 19:31:28
+  message: MyText
+  user: two
